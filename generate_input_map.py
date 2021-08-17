@@ -1,8 +1,8 @@
 import random
 
-INPUT_N = 100_000
-DELETE_N = 5_000
-SEARCH_N = 5_000
+INPUT_N = 100000
+DELETE_N = 5000
+SEARCH_N = 5000
 
 random.seed()
 

@@ -1,6 +1,6 @@
 import random
 
-INPUT_N = 400_000
+INPUT_N = 400000
 
 random.seed()
 

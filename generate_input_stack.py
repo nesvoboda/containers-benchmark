@@ -1,6 +1,6 @@
 import random
 
-INPUT_N = 10_000_000
+INPUT_N = 10000000
 
 random.seed()
 

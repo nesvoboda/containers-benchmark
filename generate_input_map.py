@@ -1,6 +1,6 @@
 import random
 
-INPUT_N = 50000
+INPUT_N = 25000
 DELETE_N = 5000
 SEARCH_N = 5000
 

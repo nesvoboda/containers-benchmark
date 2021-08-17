@@ -1,6 +1,3 @@
-#include "tested_code/vector.hpp"
-#include "tested_code/stack.hpp"
-
 #ifdef STD
 # include <map>
 # define NS std

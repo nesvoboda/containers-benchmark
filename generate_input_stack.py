@@ -7,4 +7,4 @@ random.seed()
 # Insert
 print(INPUT_N)
 for i in range(INPUT_N):
-    print(f"{random.randint(0, 42000)}")
+    print(random.randint(0, 42000))
